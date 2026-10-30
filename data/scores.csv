@@ -1,4 +1,7 @@
-student,topic,score
-S1,arrays,82
-S1,recursion,31
-S1,sorting,64
+
+student_id,student_name,attendance,marks,assignments
+S001,Student_A,42,38,30
+S002,Student_B,68,55,60
+S003,Student_C,91,84,95
+S004,Student_D,73,47,45
+S005,Student_E,86,72,80
